@@ -1,8 +1,9 @@
 ﻿<Properties>
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
-  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Scripts\RobotController.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Scripts\RobotFactoryController.cs">
     <Files>
-      <File FileName="Assets\Scripts\RobotController.cs" Line="9" Column="44" />
+      <File FileName="Assets\Scripts\RobotController.cs" Line="21" Column="3" />
+      <File FileName="Assets\Scripts\RobotFactoryController.cs" Line="14" Column="10" />
     </Files>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
